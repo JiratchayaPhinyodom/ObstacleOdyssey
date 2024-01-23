@@ -1,5 +1,6 @@
 # ObstacleOdyssey
-
+This game is an offline game and needs 1 player in each round.The objective of this game is for players to navigate through randomly generated obstacles while attempting to survive for as long as possible. The game becomes increasingly difficult as the player progresses, as the speed of the game increases. To start the game, the player must click on the start button. During gameplay, the player can jump by pressing the shift key on their keyboard once, or perform a double jump by pressing it twice. Additionally, players can lie down by pressing the spacebar.
+#
 ## How to run Obstacle Odyssey game
 press run jave button on [game.java](/src/display/Game.java)
 #
